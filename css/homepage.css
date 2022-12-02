@@ -1,0 +1,126 @@
+.background
+{
+    background-color: #FFF1CD;
+    top: 0px;
+    bottom: 0px;
+    right: 0px;
+    left: 0px;
+    position: relative;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+.main{
+    width: 1536px;
+    height: 800px;
+    position: absolute;
+    margin: 0px 0px 0px 0px;
+    padding: 0px 0px 0px 0px;
+}
+.side
+{
+    position: absolute;
+    right: 0px;
+    left: 0px;
+    top: 0px;
+    margin: 0px 0px 0px 0px;
+    width: 350px;
+    height: 800px;
+    background-color: #61351C;
+    z-index: 1;
+}
+.enc
+{
+    position: absolute;
+    height: 350px;
+    width: 350px;
+    left: 10px;
+    top: 10px;
+    align-items: center;
+    
+}
+.quote{
+    text-align: center;
+    position: relative;
+    top: 350px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    padding: 20px 20px 20px 20px;
+    font-size: 85;
+    color: #D4AC6F;
+}
+.twitter{
+    display: inline-block;
+    width: 40px;
+    height: 40px;
+    top: 750px;
+    margin-top: 450px;
+    margin-left: 50px;
+    padding: 20px 20px 20px 20px;
+}
+.insta{
+    display: inline-block;
+    width: 40px;
+    height: 40px;
+    top: 750px;
+    margin-top: 450px;
+    padding: 20px 20px 20px 20px;
+}
+.face{
+    display: inline-block;
+    width: 40px;
+    height: 40px;
+    top: 750px;
+    margin-top: 450px;
+    padding: 20px 20px 20px 20px;
+}
+.home{
+    height: 550px;
+    width: 1000px;
+    position: absolute;
+    left: 350px;
+    top: 0px;
+}
+.home_img{
+    width: 1190px;
+    height: 830px;
+    object-fit: cover;
+    z-index: 10;
+    opacity: 65%;
+}
+.arrow {
+    
+    z-index: 2;
+    position: absolute;
+    left: 950px; 
+    top: 150px;
+
+    transition: all 0.5s ease;
+    
+  }
+  .arrow:hover{
+
+    transform: scale(1.5);
+  }
+  a{
+    text-decoration: none;
+  }
+
+.face:hover{
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    background-color: antiquewhite;
+    border-radius: 1px;
+    transition: all 1s;
+}
+.insta:hover{
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    background-color: antiquewhite;
+    border-radius: 1px;
+    transition: all 1s;
+}
+
+.twitter:hover{
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    background-color: antiquewhite;
+    border-radius: 1px;
+    transition: all 1s;
+}

@@ -1,0 +1,159 @@
+body {
+  margin: 0;
+  background-color: #ece4db;
+}
+header {
+  background-color: #69381c;
+  position: sticky;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  top: 0%;
+  z-index: 1;
+  height: 100%;
+  font-family: "Nunito";
+}
+
+.tabs {
+  display: flex;
+  flex-grow: 0.3;
+  justify-content: space-evenly;
+}
+.tabs a:hover {
+  border-bottom: 4px solid #ece4db;
+  transition: all 0.2s;
+}
+.tabs1 {
+  display: flex;
+  flex-grow: 0.1;
+  justify-content: space-evenly;
+}
+.main {
+  display: flex;
+  width: 90%;
+  margin-left: 1%;
+}
+.imag {
+  flex-basis: 50%;
+  display: flex;
+  justify-content: space-evenly;
+  padding: 10px 0px;
+}
+.prod img {
+  width: 8vw;
+  height: 8vw;
+  border-radius: 8px;
+}
+
+.hello{
+  width: 8vw;
+  height: 8vw;
+  border-radius: 8px;
+}
+
+.prod {
+  display: flex;
+  flex-direction: column;
+  height: 30vw;
+  padding: 5px;
+  justify-content: space-evenly;
+}
+.main_img {
+  height: 30vw;
+  width: 30vw;
+  border-radius: 8px;
+}
+.det {
+  flex-basis: 50%;
+  padding: 10px 0px;
+  padding-left: 40px;
+}
+
+.but {
+  background-color: #69381c; 
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  border-radius: 5px;
+  width: 100%;
+}
+.but1 {
+  background-color: #69381c; 
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  border-radius: 5px;
+  width: 100%;
+}
+
+.stk {
+  flex-basis: 50%;
+  display: flex;
+  justify-content: space-evenly;
+  padding: 10px 0px;
+}
+.footer {
+  background-color: #69381c;
+  display: flex;
+  font-family: "Nunito";
+  align-items: center;
+  height: 60px;
+
+  color: white;
+  justify-content: space-evenly;
+
+}
+
+.line {
+  rotate: 90deg;
+  font-weight: bold;
+}
+.social img {
+  width: 30px;
+}
+
+.social {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.soc_icons {
+  width: 10vw;
+
+  display: flex;
+  justify-content: space-between;
+}
+
+::-webkit-scrollbar {
+  width: 10px;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #69381c;
+}
+::-webkit-scrollbar-thumb:hover {
+  background-color: #ece4db;
+}
+
+.store {
+  text-decoration: none;
+  color: #ece4db;
+  border-radius: 2px;
+  border: solid 2px #ece4db;
+
+}
+
+a {
+  text-decoration: none;
+  color: #ece4db;
+}

@@ -1,0 +1,73 @@
+{
+
+    "products" :{
+        "a":
+        {
+            "name" : "Plated Silver Oxidized Jhumka",
+            "image" : "/images/earing.jpg",
+            "price" : "Rs. 2500",
+            "sdesc" : "Silver Earing",
+            "desc": "Elit culpa sunt velit esse irure cupidatat qui nulla incididunt ea. Nostrud irure cupidatat fugiat nulla officia Lorem excepteur sint in ut est nulla consequat sit. Ea duis irure laborum consectetur ea consequat ad fugiat. Elit ea laborum nulla do."
+
+        },
+        "b":
+        {
+            "name" : "Traditional Gold Pearl Earings",
+            "image" : "/images/earings 2.png",
+            "price" : "Rs. 1800",
+            "sdesc" : "Silver Earing",
+            "desc": "Qui mollit commodo cillum et nulla aliquip qui sunt ea cillum officia proident ea. Cupidatat tempor qui elit ullamco dolor. Irure et irure non ipsum cillum aliquip officia. Consequat in officia ut eiusmod. Non laboris minim labore ex aliqua velit amet quis nisi elit ex. Pariatur reprehenderit incididunt non commodo veniam excepteur laboris nostrud aute ea. Nulla mollit fugiat elit magna commodo occaecat magna veniam sit nulla sunt."
+
+        },
+        "c":
+        {
+            "name" : "Ghungroo Studded Handcrafted Jhumkas",
+            "image" : "/images/earing4.jpg",
+            "price" : "Rs. 1500",
+            "sdesc" : "Silver Earing",
+            "desc": "Esse non enim enim reprehenderit. Amet dolor aute sint deserunt est et eu. Magna cillum occaecat do eiusmod officia proident Lorem veniam voluptate officia. Do ullamco aliquip est nostrud ea occaecat ut sit est."
+        },
+        "d":
+        {
+            "name" : "Green Stone Gold Earings",
+            "image" : "/images/earing3.jpg",
+            "price" : "Rs.2000",
+            "sdesc" : "Silver Earing",
+            "desc": "Aliqua aliquip ad labore proident aliqua proident eu nisi proident reprehenderit. Non ea cupidatat enim pariatur cillum qui mollit aliqua ea nisi in voluptate. Consectetur officia officia veniam Lorem fugiat aliqua eiusmod voluptate minim aute eiusmod dolore commodo Lorem. Nisi do anim duis velit pariatur ea laborum fugiat aliqua."
+        },
+        "e":
+        {
+            "name" : "Mirror Encrusted Silver Earings",
+            "image" : "/images/earing8.jpg",
+            "price" : "Rs. 1000",
+            "sdesc" : "Silver Earing",
+            "desc": "Sint deserunt laborum deserunt Lorem. Incididunt labore consectetur magna ad exercitation culpa ex. Magna et voluptate aute ea sint proident sunt et Lorem ea. Dolore magna anim officia esse elit non enim aliqua voluptate nisi esse pariatur occaecat adipisicing. Aute amet ut occaecat id ipsum duis sint aute voluptate tempor. Exercitation et sint do aliqua ipsum enim dolor."
+        },
+        "f":
+        {
+            "name" : "Diamond Drop Earring",
+            "image" : "/images/earing6.png",
+            "price" : "Rs. 8500",
+            "sdesc" : "Silver Earing",
+            "desc": "Magna anim commodo et non mollit magna veniam. Ex tempor consequat dolor amet nostrud incididunt dolore cillum veniam mollit exercitation aliqua officia esse. Qui Lorem consectetur id in id occaecat qui eu occaecat est minim in."
+        },
+        "g":
+        {
+            "name" : "Ethnic Silver Pearl Beaded Earring",
+            "image" : "/images/earing 7.jpg",
+            "price" : "Rs.1100",
+            "sdesc" : "Silver Earing",
+            "desc": "Proident tempor incididunt mollit deserunt pariatur qui in ipsum anim sunt. Laboris ullamco nostrud deserunt duis fugiat quis tempor. Occaecat nostrud non aliqua est in consequat velit cupidatat. Nostrud ipsum laboris labore cillum duis amet ut. Ullamco dolor elit sit id aute in quis nulla ea occaecat sit. Cupidatat nisi velit dolore ex. Consequat laborum magna cillum non est sit labore Lorem sit."
+        },
+        "h":
+        {
+            "name" : "Temple Bell Aztec Inspired Ring",
+            "image" : "/images/earing 5.jpg",
+            "price" : "Rs.3000",
+            "sdesc" : "Silver Earing",
+            "desc": "Ea incididunt in ad esse sit tempor sit cillum non elit amet ad. Est dolor tempor amet dolor incididunt ea fugiat eu. Ex velit dolor veniam ullamco minim. Et ut deserunt est qui id minim laboris elit commodo labore. Eiusmod laborum laborum et duis Lorem proident aliquip laborum ex ipsum do fugiat labore consectetur."
+
+        }
+    }
+}
+

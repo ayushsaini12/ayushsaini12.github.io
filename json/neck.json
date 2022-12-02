@@ -1,0 +1,65 @@
+{
+
+
+    "products" :{
+        "a":{
+            "name" : "Silver Mixed Metal Necklace",
+            "image" : "/images/neck.jpg",
+            "price" : "Rs.3999",
+            "sdesc" : "Silver necklace",
+            "desc" : "Aliquip non voluptate cupidatat labore mollit amet amet aliqua dolore reprehenderit nulla esse dolore voluptate. Aute in reprehenderit non aliquip incididunt officia amet incididunt duis voluptate. Nulla elit duis ut cillum velit nulla aute irure duis."
+        },
+        "b":{
+            "name" : "Green Quartz Gemstone Necklace",
+            "image" : "/images/neck8.png",
+            "price" : "Rs.1899",
+            "sdesc" : "Silver necklace",
+            "desc" : "Velit amet labore enim elit adipisicing qui ea ex elit. Qui nulla aute velit quis aliqua fugiat exercitation sunt fugiat ipsum. Non reprehenderit incididunt cupidatat in dolor eiusmod. Non labore mollit anim irure ea."
+
+        },
+        "c":{
+            "name" : "Eshika Temple Choker",
+            "image" : "/images/neck3.jpg",
+            "price" : "Rs.5009",
+            "sdesc" : "Silver necklace",
+            "desc" : "Nisi dolor consequat officia dolor esse dolor ullamco nostrud nostrud eu ullamco est ut tempor. Ex veniam enim et ea dolore excepteur mollit. Officia ut adipisicing sunt officia incididunt id anim. Irure amet dolore cillum fugiat nulla reprehenderit mollit magna non elit sint reprehenderit incididunt consequat. Laborum cupidatat dolor magna aliqua ullamco consequat. Quis consequat reprehenderit consequat deserunt adipisicing proident culpa do."
+        },
+        "d":{
+            "name" : "Green Stone & Pearl Necklace",
+            "image" : "/images/neck4.jpg",
+            "price" : "Rs.15000",
+            "sdesc" : "Silver necklace",
+            "desc" : "Tempor aliqua deserunt ad deserunt cillum commodo est labore dolore nostrud adipisicing ut ullamco ea. Labore sint proident est do reprehenderit do consectetur nostrud excepteur magna irure reprehenderit ex. Ea ea eiusmod aliquip aute qui consequat elit laborum id."
+        },
+        "e":{
+            "name" : "Diamond Necklace",
+            "image" : "/images/neck5.jpg",
+            "price" : "Rs. 20000",
+            "sdesc" : "Silver necklace",
+            "desc" : "Consequat aliquip nostrud ea ut sunt pariatur excepteur ullamco consectetur. Ad eu amet labore ipsum enim ex commodo deserunt reprehenderit veniam duis velit adipisicing. Sunt ex ipsum et id qui."
+        },
+        "f":{
+            "name" : "22Kt Gold Plated Necklace",
+            "image" : "/images/neck6.jpg",
+            "price" : "Rs. 4500",
+            "sdesc" : "Silver necklace",
+            "desc" : "Laborum pariatur duis eu qui mollit proident veniam ipsum ut ullamco elit esse amet. Id do sint qui non adipisicing duis amet cupidatat. Consectetur dolor elit consectetur officia anim fugiat. Mollit aute mollit et officia officia pariatur ex."
+        },
+        "g":{
+            "name" : "Shell Pearl & Green Jade Drops",
+            "image" : "/images/neck7.jpg",
+            "price" : "Rs.17000",
+            "sdesc" : "Silver necklace",
+            "desc" : "Eiusmod consequat nisi irure cillum proident do dolore. Sint eiusmod Lorem culpa labore cillum non commodo dolor dolore. Incididunt sint cillum et do ex magna qui. Commodo ullamco qui aliqua pariatur dolore id et minim reprehenderit voluptate id excepteur. Magna sint officia do eu id ut aliqua elit."
+        },
+        "h":{
+            "name" : "Rise Above Judgements Choker",
+            "image" : "/images/neck9.png",
+            "price" : "Rs.5400",
+            "sdesc" : "Silver necklace",
+            "desc" : "Voluptate officia cillum ipsum magna dolor. Quis occaecat nisi voluptate et. Ipsum fugiat quis dolore incididunt incididunt aliquip. Excepteur consectetur nisi ad officia ipsum est nulla fugiat ullamco."
+
+        }
+    }
+}
+

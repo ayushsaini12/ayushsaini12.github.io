@@ -1,0 +1,65 @@
+{
+
+
+    "products" :{
+        "a": {
+            "name" : "Silver-Toned Oxidised Bangle",
+            "image" : "/images/brace.jpg",
+            "price" : "Rs. 2500",
+            "sdesc" :"Pure Silver",
+            "desc": "Labore ullamco cillum ad voluptate non aliqua. Ea exercitation sunt eu culpa irure ea nostrud. Irure consectetur laboris ex adipisicing reprehenderit ea incididunt cupidatat aliqua elit et. Magna exercitation reprehenderit tempor mollit amet esse. Anim labore laboris aliquip pariatur. Amet esse exercitation labore proident amet voluptate anim Lorem magna magna. Nulla culpa non cillum quis ex eiusmod laboris nisi incididunt ex commodo occaecat."
+        },
+        "b": {
+            "name" : "Aria Oxidised Bracelet",
+            "image" : "/images/brace2.png",
+            "price" : "Rs. 4500",
+            "sdesc" :"Oxidised",
+            "desc": "Sunt exercitation magna proident minim dolore enim eiusmod ex cupidatat. Labore dolore elit proident do elit culpa anim officia elit. Do deserunt qui eu sunt qui Lorem tempor aliqua id dolore ex. Magna elit dolore do tempor reprehenderit tempor est fugiat labore ut consectetur. Enim cillum aliquip irure non minim Lorem fugiat deserunt est."
+
+        },
+        "c":{
+            "name" : "Gold Rule Bangle",
+            "image" : "/images/bracelet 4.jpg",
+            "price" : "Rs. 9800",
+            "sdesc" :"Gold 101",
+            "desc": "Esse fugiat ullamco laboris quis. Excepteur enim excepteur aute irure eiusmod irure elit non eu nulla aliquip id voluptate. Proident sunt velit et pariatur laborum veniam ipsum. Laboris duis magna proident labore sint do Lorem tempor elit."
+        },
+        "d":{
+            "name" : "Diamond studded Bracelet",
+            "image" : "/images/bracelet.jpg",
+            "price" : "Rs.2000",
+            "sdesc" :"Pure Silver",
+            "desc": "Quis nostrud eiusmod laborum consectetur est nisi. Adipisicing do voluptate nostrud laborum pariatur nulla ipsum dolore culpa ex. Duis ea Lorem anim elit incididunt officia."
+        },
+        "e":{
+            "name" : "Gold Queenly Bracelet",
+            "image" : "/images/bracelet2.jpg",
+            "price" : "Rs. 10000",
+            "sdesc" :"Pure Silver",
+            "desc": "Quis nostrud eiusmod laborum consectetur est nisi. Adipisicing do voluptate nostrud laborum pariatur nulla ipsum dolore culpa ex. Duis ea Lorem anim elit incididunt officia."
+        },
+        "f":{
+            "name" : "Cubic Zirconia Brass Kada",
+            "image" : "/images/bracelet3.jpg",
+            "price" : "Rs. 3500",
+            "sdesc" :"Pure Silver",
+            "desc": "Quis nostrud eiusmod laborum consectetur est nisi. Adipisicing do voluptate nostrud laborum pariatur nulla ipsum dolore culpa ex. Duis ea Lorem anim elit incididunt officia."
+        },
+        "g":{
+            "name" : "Diamond Rose Gold Plated Bangles",
+            "image" : "/images/bracelet7.png",
+            "price" : "Rs.4000",
+            "sdesc" :"Pure Silver",
+            "desc": "Quis nostrud eiusmod laborum consectetur est nisi. Adipisicing do voluptate nostrud laborum pariatur nulla ipsum dolore culpa ex. Duis ea Lorem anim elit incididunt officia."
+        },
+        "h":{
+            "name" : "Elegant Gold Bracelet",
+            "image" : "/images/bracelet6.jpg",
+            "price" : "Rs.6700",
+            "sdesc" :"Pure Silver",
+            "desc": "Quis nostrud eiusmod laborum consectetur est nisi. Adipisicing do voluptate nostrud laborum pariatur nulla ipsum dolore culpa ex. Duis ea Lorem anim elit incididunt officia."
+
+        }
+    }
+}
+

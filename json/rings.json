@@ -1,0 +1,64 @@
+{
+
+    "products" :{
+        "a":{
+            "name" : "Rose Gold Floral Ring",
+            "image" : "/images/ring.jpg",
+            "price" : "Rs. 2500",
+            "sdesc" : "Jewelery Rings",
+            "desc" : "Sunt nulla irure anim nostrud commodo Lorem ex. Cillum enim aliquip enim exercitation. Do sunt enim culpa magna adipisicing pariatur voluptate dolore eu."
+        },
+        "b":{
+            "name" : "Antique Gold Ring",
+            "image" : "/images/ring2.jpg",
+            "price" : "Rs. 1800",
+            "sdesc" : "Jewelery Rings",
+            "desc" : "Id consectetur incididunt magna elit occaecat sit culpa consectetur minim. Mollit deserunt occaecat ut eiusmod sit eiusmod proident pariatur incididunt voluptate occaecat. Aliqua dolor amet aliquip nostrud esse labore qui ut sit reprehenderit pariatur quis incididunt. Proident est commodo nostrud aliqua dolore ut elit. Pariatur occaecat et cupidatat voluptate. Laborum duis culpa commodo id consequat."
+
+        },
+        "c":{
+            "name" : "Diamond Studded Gold Ring",
+            "image" : "/images/ring3.jpg",
+            "price" : "Rs. 9800",
+            "sdesc" : "Jewelery Rings",
+            "desc" : "Ipsum ad non Lorem minim ex dolor do ea ipsum. In commodo consequat nisi commodo laborum. Occaecat sunt excepteur est Lorem exercitation officia ad laboris ea consectetur sit irure. Proident Lorem amet sint aliqua qui non deserunt deserunt ad excepteur. Amet irure aliqua in ea esse aliqua nisi qui mollit pariatur ea. Deserunt consectetur non est sunt dolor do eu voluptate velit ad proident. Sit adipisicing laborum incididunt proident."
+        },
+        "d":{
+            "name" : "Antique Oxidised Silver Ring",
+            "image" : "/images/ring5.jpg",
+            "price" : "Rs.2000",
+            "sdesc" : "Jewelery Rings",
+            "desc" : "Cillum eu velit laboris labore. Nostrud ad Lorem ipsum est consequat veniam ea cillum velit mollit. Magna incididunt cupidatat pariatur aute. Adipisicing magna tempor adipisicing commodo qui laboris cillum non deserunt labore."
+        },
+        "e":{
+            "name" : "Mirror Encrusted Silver Ring",
+            "image" : "/images/ring4.png",
+            "price" : "Rs. 1000",
+            "sdesc" : "Jewelery Rings",
+            "desc" : "Adipisicing fugiat elit dolor dolor consequat consequat minim sunt commodo officia et est reprehenderit. Deserunt incididunt velit voluptate eu elit sunt. Enim eiusmod dolore nostrud elit. Excepteur voluptate laboris et adipisicing ut et qui aute magna. Veniam nostrud qui nulla ea."
+        },
+        "f":{
+            "name" : "Peacock Handcrafted Ring",
+            "image" : "/images/ring7.png",
+            "price" : "Rs. 3500",
+            "sdesc" : "Jewelery Rings",
+            "desc" : "Sit cillum ea dolor ullamco. Eiusmod exercitation irure aliqua elit ad et non. Aliqua in ad consequat velit exercitation quis adipisicing et consequat dolore nulla aute minim officia. Est tempor dolore reprehenderit magna velit sit laboris eu dolor. Voluptate consequat anim elit esse et non non Lorem duis."
+        },
+        "g":{
+            "name" : "emple Bell Aztec Inspired Ring",
+            "image" : "/images/ring8.png",
+            "price" : "Rs.1200",
+            "sdesc" : "Jewelery Rings",
+            "desc" : "Velit et laboris duis deserunt officia et. Sunt cupidatat in incididunt cupidatat labore. Reprehenderit nostrud voluptate magna excepteur aliquip culpa velit exercitation commodo consequat tempor. Ea velit nulla qui laboris adipisicing eu. Ipsum duis nostrud nisi elit enim aliquip adipisicing. Qui dolor tempor elit minim. Sunt fugiat tempor ad in esse sint consequat et."
+        },
+        "h":{
+            "name" : "Temple Bell Aztec Inspired Ring",
+            "image" : "/images/ring9.png",
+            "price" : "Rs.800",
+            "sdesc" : "Jewelery Rings",
+            "desc" : "Id elit cillum mollit adipisicing irure incididunt nostrud amet est do non dolor ullamco eiusmod. Labore sint amet ex minim. Ullamco dolore ad voluptate nostrud eu veniam adipisicing labore tempor id enim. Quis tempor consectetur est aliqua excepteur ea non do consectetur dolor laboris est voluptate in. Ullamco pariatur ad consequat laboris cupidatat excepteur incididunt elit cillum occaecat. Do officia mollit mollit cupidatat adipisicing dolore reprehenderit veniam aute sint nisi veniam est. Mollit tempor anim pariatur sint."
+
+        }
+    }
+}
+
